@@ -1,6 +1,5 @@
 <!--타이틀 부분-->
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=220&section=header&text=This%20is%20Ji%20Nu&fontSize=80)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -95,3 +94,4 @@
       src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
