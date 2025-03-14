@@ -1,13 +1,17 @@
 <!--타이틀 부분-->
-<div align="center">
-  <!-- <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" /> -->
-  Welcom jinu's git
+<div align=center>
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=220&section=header&text=This%20is%20Ji%20Nu&fontSize=80)
 </div>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/java-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+   <img src= "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" width="90" height="30"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="110" height="30"/> 
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FF9E0F">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src= "https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=Mysql&logoColor=white">
+  <p>&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
 </div>
@@ -79,7 +83,7 @@
 
 ------
 
-<div align=center>
+
   
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=220&section=header&text=This%20is%20Ji%20Nu&fontSize=80)
 
