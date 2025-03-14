@@ -1,5 +1,5 @@
 <!--타이틀 부분-->
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=220&section=header&text=This%20is%20Ji%20Nu&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=220&section=header&text=This%20is%20Jinu&fontSize=80)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinu&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinu&layout=compact) -->
