@@ -83,6 +83,14 @@
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 </div>
 
+<h3 align="center"> 📕 Certificate 📕</h3>
+
+|Certificate|Organization|
+|:---:|:---:|
+|SQLD(SQL 개발자)|한국데이터산업진흥원|
+|빅데이터분석기사|한국데이터산업진흥원|
+</div>
+
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
