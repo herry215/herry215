@@ -96,6 +96,7 @@
 </div>
 <br>
 <div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinu&show_icons=true&theme=radical)&nbsp
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinu&show_icons=true&theme=radical)
+   <p></p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinu&layout=compact)&nbsp
 </div>
