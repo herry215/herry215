@@ -87,7 +87,7 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://https://www.notion.so/CRM101-IT-1b5d73e758bc808ea4a5edc2bffff07f?pvs=4">
+  <a href="https://www.notion.so/CRM101-IT-1b5d73e758bc808ea4a5edc2bffff07f?pvs=4">
     <img src="https://img.shields.io/badge/Notion-1EBC8F?style=for-the-badge&logo=Notion&logoColor=white" />&nbsp
   </a>
   <a href="mailto:herryjinwoo215@gmail.com">
