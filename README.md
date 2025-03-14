@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align=center>
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=220&section=header&text=This%20is%20Ji%20Nu&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=220&section=header&text=This%20is%20Ji%20Nu&fontSize=80) 
 </div>
 
 <!--내용 부분-->
