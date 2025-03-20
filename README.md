@@ -35,6 +35,7 @@
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
     <img src="https://img.shields.io/badge/APEX-11557c.svg?style=for-the-badge&logo=APEX&logoColor=black" />&nbsp
+   <img src="https://img.shields.io/badge/LWC-11557c.svg?style=for-the-badge&logo=LWC&logoColor=yellow" />&nbsp
 </div>
 
 <br>
