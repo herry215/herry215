@@ -37,7 +37,7 @@
 
 <h4 align="center">🤝 CRM Platforms</h4>
 
-<h5 align="center"><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white" height="22"/> Salesforce</h5>
+<h5 align="center"><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white" height="22"/></h5>
 <div align="center">
   <img src="https://img.shields.io/badge/Sales_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Service_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="30"/>
@@ -49,7 +49,7 @@
 
 <br>
 
-<h5 align="center"><img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white" height="22"/> HubSpot</h5>
+<h5 align="center"><img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white" height="22"/></h5>
 <div align="center">
   <img src="https://img.shields.io/badge/Sales_Hub-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Service_Hub-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" height="30"/>
