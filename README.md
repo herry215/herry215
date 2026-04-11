@@ -34,17 +34,30 @@
 <br>
 
 <h4 align="center">🤝 CRM Platforms</h4>
+
+<h5 align="center">Salesforce</h5>
 <div align="center">
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Salesforce_Sales_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Salesforce_Service_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Sales_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Service_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Experience_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="30"/>
+</div>
+
+<br>
+
+<h5 align="center">HubSpot</h5>
+<div align="center">
   <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/HubSpot_Sales_Hub-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/HubSpot_Service_Hub-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/HubSpot_Marketing_Hub-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Sales_Hub-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Service_Hub-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Marketing_Hub-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Content_Hub-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Data_Hub-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Commerce_Hub-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Breeze_AI-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" height="30"/>
 </div>
 
 <br>
