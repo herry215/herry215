@@ -6,6 +6,8 @@
 
 <h4 align="center">💬 Languages</h4>
 <div align="center">
+  <img src="https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FF9E0F" height="30"/>
@@ -35,9 +37,8 @@
 
 <h4 align="center">🤝 CRM Platforms</h4>
 
-<h5 align="center">Salesforce</h5>
+<h5 align="center"><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white" height="22"/> Salesforce</h5>
 <div align="center">
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Sales_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Service_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Experience_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="30"/>
@@ -48,9 +49,8 @@
 
 <br>
 
-<h5 align="center">HubSpot</h5>
+<h5 align="center"><img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white" height="22"/> HubSpot</h5>
 <div align="center">
-  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Sales_Hub-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Service_Hub-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Marketing_Hub-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" height="30"/>
@@ -58,6 +58,7 @@
   <img src="https://img.shields.io/badge/Data_Hub-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Commerce_Hub-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Breeze_AI-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/HubL-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" height="30"/>
 </div>
 
 <br>
@@ -82,6 +83,7 @@
   <img src="https://img.shields.io/badge/Salesforce_Flow-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="30"/>&nbsp
   <img src="https://img.shields.io/badge/Salesforce_Einstein-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="30"/>&nbsp
   <img src="https://img.shields.io/badge/Platform_Developer_I-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="30"/>&nbsp
+  <img src="https://img.shields.io/badge/HubL-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" height="30"/>&nbsp
 </div>
 
 <br>
