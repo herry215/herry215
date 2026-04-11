@@ -68,7 +68,6 @@
 |Certificate|Organization|
 |:---:|:---:|
 |Administrator|Salesforce|
-|Platform Developer 1|Salesforce|
 |AI Assoicate|Salesforce|
 </div>
 
